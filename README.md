@@ -10,12 +10,12 @@ Set up necessary API in .env file
 OPENAI_API_KEY=
 ```
 
-# Install dependencies
+## Install dependencies
 ```
 python -m venv env
 "env/Scripts/activate"
 pip install -r requirements.txt
 ```
 
-# Run
+## Run
 Streamlit run app.py
